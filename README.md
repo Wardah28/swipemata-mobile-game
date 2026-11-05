@@ -1,10 +1,10 @@
-# [Game name]
+# Swipemata
 
-**Team:** [Name 1] · [Name 2] · [Name 3]
+**Team:** Wardah Abu Freih
 **Course:** Mobile Game Development, Shenkar
 
 ## The game in one sentence
-[What does the player do, and why do they come back tomorrow?]
+Swipemata is a one-thumb, portrait Android puzzle game in which players draw simple shapes to spawn autonomous robots that solve short challenges, earn DNA Sparks, and upgrade their lab.
 
 ## How to open and build
 1. Open the project in Unity 6 LTS (the exact version is on Moodle).
@@ -17,3 +17,5 @@
 | `pitch.md` | One-page pitch of the game |
 | `DECISIONS.md` | Every real decision the team made, and why |
 | `AGENTS.md` | Context for AI coding tools: architecture, rules, conventions |
+
+> **Note:** Swipemata is a working title; the commercial name may change following availability checks.
