@@ -19,3 +19,15 @@ Swipemata is a one-thumb, portrait Android puzzle game in which players draw sim
 | `AGENTS.md` | Context for AI coding tools: architecture, rules, conventions |
 
 > **Note:** Swipemata is a working title; the commercial name may change following availability checks.
+
+
+
+## UI Concept Art
+
+[View all eight Swipemata concept screens](docs/concept-art/)
+
+These images represent the planned visual design.
+The Milestone 2 implementation uses greybox UI.
+
+
+
